@@ -1,6 +1,5 @@
 package lk.example.jpamapping.manytoone.repository;
 
-import lk.example.jpamapping.manytomany.entity.PostEntity;
 import lk.example.jpamapping.manytoone.entity.MobileEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

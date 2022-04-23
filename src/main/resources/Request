@@ -1,0 +1,1 @@
+localhost:8080/book/search/?bookId.equals=1&bookTitle.contains=i&bookRating.greaterThan=10&size=10&page=1
